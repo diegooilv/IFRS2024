@@ -90,6 +90,7 @@ class Lista_01 {
                 case 1:
                     Exercicio_01();
                     break;
+                    
                 case 2:
                     Exercicio_02();
                     break;

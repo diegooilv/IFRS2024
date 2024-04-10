@@ -7,7 +7,6 @@ class Lista_01 {
     }
 
     static void Exercicio_01(){
-
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite sua altura:");
         double altura = sc.nextDouble();
@@ -27,7 +26,6 @@ class Lista_01 {
     }
 
     static void Exercicio_02(){
-
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite seu peso");
         double peso = sc.nextDouble();

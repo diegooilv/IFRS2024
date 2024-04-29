@@ -32,6 +32,8 @@ class ResumoProva_01 {
 
         System.out.print("Digite sua idade: ");
         int idade = scanner.nextInt();
+    }
+}
 ```
 
 

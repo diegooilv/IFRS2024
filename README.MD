@@ -4,40 +4,29 @@
 
 ---
 
-## 🍴 Fork
-
-Este repositório é uma derivação do seguinte repositório original: [**`marcoantoni/progrii`**](https://github.com/marcoantoni/progrii)
-
----
+Este repositório tem como objetivo armazenar meu desenvolvimento e aprendizagem ao longo do curso.
 
 ## 📁 Organização do Repositório
 
-### 📚 Aulas
+### 📚 [`Aulas`](aulas/)
 
-Contém uma cópia do repositório do professor Marco, com pequenas alterações para adaptação às necessidades do curso.
+Contém uma cópia do repositório do professor Marco, com pequenas adaptações às necessidades do curso, além de exercícios concluídos por mim.
+> Para mais informações, leia o [`README.md`](aulas/README.md)!
 
-### 🧩 Poo
+### 🧩 [`Poo`](poo/)
 
-Arquivos de estudo sobre Programação Orientada a Objetos.
+Arquivos de estudo sobre Programação Orientada a Objetos (POO).
 
-### 🚀 src / Projetos
+### 🚀 [`src`](src/)
 
-Pasta dedicada a pequenos ou médios projetos em Java desenvolvidos durante o ano de 2024.
+Pasta dedicada a pequenos e médios projetos em Java desenvolvidos durante o ano de 2024.
 
----
-
-## 📢 Avisos
-
-Este repositório possui finalidades informativas e educacionais.
-
-**Nota:** Este repositório é uma continuação do seguinte repositório anterior: [**`DiegoOliv07/Java2023`**](https://github.com/DiegoOliv07/Java2023)
+**Nota:** Este repositório é uma continuação do repositório anterior: [**`DiegoOliv07/Java2023`**](https://github.com/DiegoOliv07/Java2023)
 
 ---
 
-## ⚠️ Evite o Plágio!
-
-Utilize os scripts e códigos contidos neste repositório como ferramentas para aprendizado e referência, mas evite plágio. É importante compreender e desenvolver suas próprias soluções.
+> ⚠️ **Evite o Plágio!**
+>
+> Utilize os scripts e códigos contidos neste repositório como ferramentas de aprendizado e referência, mas evite o plágio.
 
 ---
-
-🚀 **Bons estudos!**

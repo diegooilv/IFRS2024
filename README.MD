@@ -21,7 +21,7 @@ Arquivos de estudo sobre Programação Orientada a Objetos (POO).
 
 Pasta dedicada a pequenos e médios projetos em Java desenvolvidos durante o ano de 2024.
 
-**Nota:** Este repositório é uma continuação do repositório anterior: [**`DiegoOliv07/Java2023`**](https://github.com/DiegoOliv07/Java2023)
+**Nota:** Este repositório é uma continuação do repositório anterior: [**`DiegoOilv/Java2023`**](https://github.com/DiegoOilv/Java2023)
 
 ---
 

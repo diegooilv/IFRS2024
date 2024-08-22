@@ -1,11 +1,13 @@
 # Aulas no IFRS 2024 - Programação II
 
-Essa pasta é uma cópia com pequenas alterações do repositório: [**`marcoantoni/progrii`**](https://github.com/marcoantoni/progrii)
-
-Exercícios concluídos por mim estão em [**`/Exercícios`**](Exercícios/) !!
+Partes desta pasta são cópias com pequenas alterações do repositório: [**`marcoantoni/progrii`**](https://github.com/marcoantoni/progrii)
 
 ---
-Conteúdos:
+Links:
 *   **[...]** -> Arquivos soltos no repositório...
-*   **Métodos** -> [**`/Metodos`**](Metodos/)
-*   **Encapsulamento** -> [**`/Encapsulamento`**](Encapsulamento/)
+*   **Exercícios** -> [**`/Exercicios/`**](Exercícios/)
+*   **Composição** -> [**`/Conteudo/Composição/`**](Conteudos/Composição/)
+*   **Encapsulamento** -> [**`Conteudo/Encapsulamento/`**](Conteudos/Encapsulamento/)
+*   **Herança** -> [**`/Conteudo/Herança/`**](Conteudos/Herança/)
+*   **Métodos** -> [**`Conteudo/Metodos/`**](Conteudos/Metodos/)
+*   **Polimorfismo** -> [**`Conteudo/Polimorfismo/`**](Conteudos/Polimorfismo/)

@@ -1,8 +1,6 @@
 # ☕ Programação II - 2024
 
-> Disciplina do segundo ano do curso de Técnico em Informática Integrado ao Ensino Médio.
-
----
+### **Disciplina do segundo ano do curso de Técnico em Informática Integrado ao Ensino Médio.**
 
 Este repositório tem como objetivo armazenar meu desenvolvimento e aprendizagem ao longo do curso.
 
@@ -10,18 +8,17 @@ Este repositório tem como objetivo armazenar meu desenvolvimento e aprendizagem
 
 ### 📚 [`Aulas`](aulas/)
 
-Contém uma cópia do repositório do professor Marco, com pequenas adaptações às necessidades do curso, além de exercícios concluídos por mim.
-> Para mais informações, leia o [`README.md`](aulas/README.md)!
+Para mais informações, *leia o* [**`README.md`**](aulas/README.md)!
 
 ### 🧩 [`Poo`](poo/)
 
-Arquivos de estudo sobre Programação Orientada a Objetos (POO).
+Arquivos de estudo sobre Programação Orientada a Objetos (POO) de maneira mais resumida.
 
 ### 🚀 [`src`](src/)
 
 Pasta dedicada a pequenos e médios projetos em Java desenvolvidos durante o ano de 2024.
 
-**Nota:** Este repositório é uma continuação do repositório anterior: [**`DiegoOliv07/Java2023`**](https://github.com/DiegoOliv07/Java2023)
+**Nota:** Este repositório é uma continuação do repositório anterior: [**`DiegoOilv/Java2023`**](https://github.com/DiegoOilv/Java2023)
 
 ---
 

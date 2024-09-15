@@ -29,7 +29,6 @@ public class Contato {
         }else{
             System.out.println("Escolha um numero válido!");
         }
-
     }
     //
     public String getEmail(){
@@ -43,13 +42,18 @@ public class Contato {
         }
     }
 
+    public String mostrarContato(){
+        return "| Nome: " + nome + " | Numero: " + numero + " | Email: " + email + " |\n";
+    }
+
     // -> Método main apenas para testes!! <-
     public static void main(String[] args){
+        System.out.println();
         // Exemplo sem erros!
         Contato professor = new Contato("Marco", "(51) 9 9999-9999", "marcoprofessor@teste.com");
-        System.out.println("Nome: " + professor.getNome() + "\nNumero: " + professor.getNumero() + "\nEmail: " + professor.getEmail() + "\n");
+        System.out.println(professor.mostrarContato());
         // Exemplo com erros!
         Contato aluno = new Contato("#", "12", "emailinexistente");
-        System.out.println("Nome: " + aluno.getNome() + "\nNumero: " + aluno.getNumero() + "\nEmail: " + aluno.getEmail() + "\n");
+        System.out.println(aluno.mostrarContato());
     }
 }

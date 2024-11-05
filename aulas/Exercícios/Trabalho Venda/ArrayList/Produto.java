@@ -1,4 +1,4 @@
-// Exatamente Igual
+// Exatamente Igual ao Produto
 public class Produto {
     private String nome;
     private float precoCompra;

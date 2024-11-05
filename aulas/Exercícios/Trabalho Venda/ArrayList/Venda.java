@@ -26,7 +26,6 @@ public class Venda {
         }
         System.out.println("----------------------------------------------------");
     }
-
     public static void main(String[] args){
         Produto carro = new Produto("Carro", 10000);
         Produto casa = new Produto("Casa", 50000, 100000);
